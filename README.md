@@ -22,3 +22,13 @@ https://www.youtube.com/c/JohannesMilke/playlists
 ## Andrea
 
 https://www.youtube.com/watch?v=bdam6VY0Db0&list=PLNnAcB93JKV9JnTwcDNSxlYiJsp4aIG9Q&index=5
+
+## JediPixels
+
+https://youtu.be/R11g6Seau9k
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R11g6Seau9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Academind
+
+https://youtu.be/GLSG_Wh_YWc
