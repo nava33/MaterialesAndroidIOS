@@ -18,3 +18,7 @@ https://youtu.be/esoIp7ojMpg
 
 ## Joanes
 https://www.youtube.com/c/JohannesMilke/playlists
+
+## Andrea
+
+https://www.youtube.com/watch?v=bdam6VY0Db0&list=PLNnAcB93JKV9JnTwcDNSxlYiJsp4aIG9Q&index=5
