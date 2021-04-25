@@ -36,3 +36,7 @@ https://youtu.be/GLSG_Wh_YWc
 ## Community Brain
 https://youtu.be/t93U2QLDFTY
 
+## diego velazquez
+
+https://youtu.be/MVY8S9vhZIE
+https://github.com/diegoveloper
