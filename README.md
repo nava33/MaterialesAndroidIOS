@@ -32,3 +32,7 @@ https://youtu.be/R11g6Seau9k
 ## Academind
 
 https://youtu.be/GLSG_Wh_YWc
+
+## Community Brain
+https://youtu.be/t93U2QLDFTY
+
