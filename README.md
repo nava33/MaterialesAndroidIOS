@@ -40,3 +40,7 @@ https://youtu.be/t93U2QLDFTY
 
 https://youtu.be/MVY8S9vhZIE
 https://github.com/diegoveloper
+
+## Eduardo Ismael García Pérez
+
+https://github.com/eduardogpg?tab=repositories
