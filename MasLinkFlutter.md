@@ -19,3 +19,8 @@ https://youtu.be/oVNP1Kx4irw
 ## Cómo implementar el patrón BLoC en Flutter desde cero
 
 https://youtu.be/c1liGPqrMlA
+
+
+## Fernando Herrera  Flutter: Provider, una alternativa al BLoC
+https://youtu.be/-KX2rH0qdKA
+https://github.com/Klerith/flutter-ejemplo-provider
