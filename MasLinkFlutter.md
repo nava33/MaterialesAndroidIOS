@@ -10,7 +10,7 @@ https://github.com/fabiomsr/Flutter-StepByStep
 
 https://github.com/flutter/codelabs
 
-## GiancarloCode
+## GiancarloCode Aprende JSON Serialization en Flutter y Dart
 
 https://github.com/GiancarloCode/built_value_and_built_collection_example
 
