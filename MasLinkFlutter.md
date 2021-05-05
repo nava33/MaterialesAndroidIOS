@@ -14,4 +14,5 @@ https://github.com/flutter/codelabs
 
 https://github.com/GiancarloCode/built_value_and_built_collection_example
 
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/oVNP1Kx4irw" width="480"></iframe>
+https://youtu.be/oVNP1Kx4irw
+
